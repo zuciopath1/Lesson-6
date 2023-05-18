@@ -1,0 +1,14 @@
+form{
+    width: 1000px;
+    height: 500px;
+    background-color: antiquewhite;
+}
+.test{
+    width: 200px;
+    margin: 100px;
+    box-shadow: 13px -2px 18px 0px rgba(0,0,0,0.75);
+}
+.test p::first-letter{
+    font-size: 20px;
+    color: red;
+}
